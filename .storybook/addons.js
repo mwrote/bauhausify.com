@@ -1,0 +1,9 @@
+// tabs
+import 'storybook-readme/register';
+import '@storybook/addon-actions/register';
+import '@storybook/addon-knobs/register';
+import '@storybook/addon-storysource/register';
+// tool
+import '@storybook/addon-viewport/register';
+// components
+import '@storybook/addon-links/register';
