@@ -11,10 +11,11 @@ mwrote's blog site.
 ## Architecture
 
 - Build by Static Site Generater, based on [Gatsby Default Starter](https://github.com/gatsbyjs/gatsby-starter-default)
+- React
 - GraphQL
 - Atomic Design
 - styled components, and tailwindcss
-- Netlify CMS for writing Post
+- Netlify CMS for writing Post in Browser
 
 ## Where to deploy
 
